@@ -58,8 +58,7 @@
 <table>
 <th>BackEnd</th>
 </table>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
@@ -100,49 +99,49 @@
 
 # 💻 화면
 ## 0. 메인 화면 및 로그인 화면
-<img src="https://velog.velcdn.com/images/lcln/post/8c4e2955-32d0-41f3-b131-3dffbc28c860/image.png" width="400" height="400"/>
+<img src="https://velog.velcdn.com/images/lcln/post/8c4e2955-32d0-41f3-b131-3dffbc28c860/image.png" width="400" height="800"/>
 
 ## 1. 시야 보기
 
 ### 시야 후기 보기 
-<img src="https://velog.velcdn.com/images/ynco32/post/f050b47d-d312-495c-a21d-50e7f5761908/image.gif" width="400" height="400"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/f050b47d-d312-495c-a21d-50e7f5761908/image.gif" width="400" height="800"/>
 
 ### 좌석 스크랩
-<img src="https://velog.velcdn.com/images/ynco32/post/6f4e1e09-c479-4ee0-b6b5-5153c7dc9c94/image.gif" width="400" height="400"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/6f4e1e09-c479-4ee0-b6b5-5153c7dc9c94/image.gif" width="400" height="800"/>
 
 ### 후기 작성
-<img src="https://velog.velcdn.com/images/ynco32/post/e3eee618-b35f-42cb-800e-6de03f076c4d/image.gif" width="400" height="400"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/e3eee618-b35f-42cb-800e-6de03f076c4d/image.gif" width="400" height="800"/>
 
 
 ## 2. 티켓팅
 ### 연습 모드
-<img src="https://velog.velcdn.com/images/ynco32/post/387f0a04-0475-4c67-ada4-972401b73f1d/image.gif" width="400" height="400"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/387f0a04-0475-4c67-ada4-972401b73f1d/image.gif" width="400" height="800"/>
 
 ### 실전 모드
-<img src="https://velog.velcdn.com/images/ynco32/post/5d9a5920-4e0b-49b8-9231-6414e6f71767/image.gif" width="400" height="400"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/5d9a5920-4e0b-49b8-9231-6414e6f71767/image.gif" width="400" height="800"/>
 
 
 ## 3. 나눔 지도
 ### 나눔 게시글 쓰기
-<img src="https://velog.velcdn.com/images/ynco32/post/27d1f725-8973-41c8-861e-36c554f22ede/image.gif" width="400" height="400"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/27d1f725-8973-41c8-861e-36c554f22ede/image.gif" width="400" height="800"/>
 
 ### 나눔 게시글 북마크
-<img src="https://velog.velcdn.com/images/ynco32/post/4930c39e-38b0-4d0a-a017-16f268558fad/image.gif" width="400" height="400"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/4930c39e-38b0-4d0a-a017-16f268558fad/image.gif" width="400" height="800"/>
 
 
 ## 4. 혼잡도 보기
-<img src="https://velog.velcdn.com/images/ynco32/post/03c25aed-61e7-4ba6-aad8-71e5b4d33f39/image.png" width="400" height="400"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/03c25aed-61e7-4ba6-aad8-71e5b4d33f39/image.png" width="400" height="800"/>
 
 
 ## 5. 마이페이지
 ### 내가 작성한 시야 후기 조회 및 삭제
-<img src="https://velog.velcdn.com/images/ynco32/post/43b3c189-dd96-4fad-9880-7217e52d7de5/image.gif" width="400" height="400"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/43b3c189-dd96-4fad-9880-7217e52d7de5/image.gif" width="400" height="800"/>
 
 ### 내가 스크랩한 나눔 게시글 조회, 내가 작성한 나눔 게시글 조회
-<img src="https://velog.velcdn.com/images/ynco32/post/c6ecf4a7-e986-4ebe-8213-281bd59aa0f6/image.gif" width="400" height="400"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/c6ecf4a7-e986-4ebe-8213-281bd59aa0f6/image.gif" width="400" height="800"/>
 
 ### 나의 티켓팅 기록 조회
-<img src="https://velog.velcdn.com/images/ynco32/post/653b151c-1823-4a4d-b461-8f2a5ee89f12/image.gif" width="400" height="400"/>
+<img src="https://velog.velcdn.com/images/ynco32/post/653b151c-1823-4a4d-b461-8f2a5ee89f12/image.gif" width="400" height="800"/>
 
 
 # 💡 활용 기술
