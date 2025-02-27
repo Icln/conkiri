@@ -54,7 +54,7 @@
   </tr> 
 </table>
 
-# 👨‍👩‍👦‍👦 기술
+# 🛠 기술
 
 ### 🖥️ BackEnd
 <p align="left">
