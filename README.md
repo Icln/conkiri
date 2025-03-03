@@ -1,5 +1,5 @@
 # 🐘 콘끼리
-<img src="https://velog.velcdn.com/images/lcln/post/c64f20d8-88f2-4bde-802c-13cd2f8fcc29/image.png" width="800" height="400"/>
+![image (5)](https://github.com/user-attachments/assets/a3b4b482-3439-42a9-b4ba-a2885799a448)
 
 
 # 목차
